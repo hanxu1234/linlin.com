@@ -3,4 +3,4 @@
 Homestead.json
 Homestead.yaml
 .env
-/database_本地.php
+./database_本地.php
